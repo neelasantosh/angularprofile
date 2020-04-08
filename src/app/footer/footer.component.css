@@ -1,0 +1,18 @@
+.groupicons{
+    list-style: none;
+    padding: 0;
+    display:inline-flex;
+}
+
+.iconslist{
+    display: inline;
+}
+
+.iconslist i:hover {
+    color: grey;      
+}
+
+.footerdiv{
+    text-align: center;
+    padding: 2% 0;
+}

@@ -1,0 +1,27 @@
+.headerdiv{
+    padding-top: 5vh;
+    text-align: center;
+    color: black;
+}
+.headerimg{
+    width: 12em;
+    height: 12em;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.navdiv{
+    display: inline-flex;
+    margin: 0 5px;
+    color: black!important;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.routename{
+    color:black;
+}
+
+.navhdeader{
+    text-align: center;
+}

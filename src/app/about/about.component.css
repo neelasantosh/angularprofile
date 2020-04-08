@@ -1,0 +1,24 @@
+.head{
+    text-align: center;
+    margin-bottom: 1.25em;
+    font-weight: 500;
+    margin-top: 1em;
+}
+.components{
+    font-family: "Open Sans", sans-serif;
+    margin: 1% 17% 3%;
+    flex: 1 1 0%;
+}
+
+.me{
+    text-align: center;
+    margin-bottom: 1.25em;
+    font-weight: 500;
+    color: rgb(100, 139, 152);
+}
+
+.mecontent{
+    text-align: center;
+    font-weight: 500;
+    color: rgb(100, 139, 152);
+}

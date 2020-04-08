@@ -1,0 +1,32 @@
+.components{
+  font-family: "Open Sans", sans-serif;
+  margin: 1% 17% 3%;
+  flex: 1 1 0%;
+}
+
+.head{
+  text-align: center;
+  margin-bottom: 1.25em;
+  font-weight: 500;
+  margin-top: 1em;
+}
+
+.tags{
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+
+.tagname{
+  font-size: 14px;
+  font-weight: 400;
+  color: #648b98;
+  font-family: 'Open Sans', sans-serif;
+}
+
+@media (max-width: 600px){
+  .components{
+    text-align : center;
+  }
+}
+  
